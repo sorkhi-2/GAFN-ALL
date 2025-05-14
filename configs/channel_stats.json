@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T18:59:06.145555+00:00",
+  "timestamp": "2025-05-14T19:04:38.527507+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/sorkhi-2/GAFN-1/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.24,
-        "last_success": "2025-05-14T18:59:01.820507+00:00",
+        "overall_score": 77.51,
+        "last_success": "2025-05-14T19:04:32.227319+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.55,
-        "last_success": "2025-05-14T18:59:03.973378+00:00",
+        "overall_score": 77.62,
+        "last_success": "2025-05-14T19:04:34.336296+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,
@@ -54,11 +54,34 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.52,
-        "last_success": "2025-05-14T18:59:06.144931+00:00",
+        "overall_score": 77.65,
+        "last_success": "2025-05-14T19:04:36.420467+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 4,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sorkhi-2/GAFN-4/refs/heads/main/configs/proxy_configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 36,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.11,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.62,
+        "last_success": "2025-05-14T19:04:38.526876+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,

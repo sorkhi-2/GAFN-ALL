@@ -9,6 +9,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-4/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-5/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-6/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/sorkhi-2/GAFN-7/refs/heads/main/configs/proxy_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 

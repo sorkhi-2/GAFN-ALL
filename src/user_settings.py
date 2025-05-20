@@ -10,9 +10,9 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-5/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-6/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-7/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-8/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-9/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-10/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-8/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-9/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-10/refs/heads/main/configs/proxy_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 

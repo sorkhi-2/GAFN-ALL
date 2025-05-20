@@ -3,13 +3,13 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-1/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-2/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-3/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-4/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-5/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-6/refs/heads/main/configs/proxy_configs.txt",
-    "https://raw.githubusercontent.com/sorkhi-2/GAFN-7/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-1/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-2/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-3/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-4/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-5/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-6/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-7/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-8/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-9/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-10/refs/heads/main/configs/proxy_configs.txt",

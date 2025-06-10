@@ -290,7 +290,7 @@ class ConfigToSingbox:
 
     def process_configs(self):
         try:
-            with open('configs/proxy_configs.txt', 'r') as f:
+            with open('configs/proxy_configs-2.txt', 'r') as f:
                 configs = f.read().strip().split('\n')
             outbounds = []
             valid_tags = []

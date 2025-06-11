@@ -46,6 +46,12 @@ hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:21005/?sni=dxobg
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@107.172.235.75:38834/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@23.132.228.217:41612/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@107.172.235.75:38834/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:21005/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode

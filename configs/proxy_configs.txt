@@ -40,7 +40,3 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@23.132.228.217:26747/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:26747/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-

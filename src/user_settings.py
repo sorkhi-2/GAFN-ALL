@@ -13,6 +13,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-8/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-9/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-10/refs/heads/main/configs/proxy_configs.txt",
+    "https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=cbd8313557643c68d3ca417ff61c7732",
     # Add more URLs here if you want to include additional sources.
 ]
 

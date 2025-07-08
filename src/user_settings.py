@@ -30,9 +30,9 @@ SPECIFIC_CONFIG_COUNT = 1000
 ENABLED_PROTOCOLS = {
     "wireguard://": False,
     "hysteria2://": True,
-    "vless://": False,
+    "vless://": True,
     "vmess://": False,
-    "ss://": False,
+    "ss://": True,
     "trojan://": False,
     "tuic://": False,
 }

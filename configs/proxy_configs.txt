@@ -6,7 +6,7 @@
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:51503/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:32219/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
@@ -50,7 +50,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZ
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20269.67%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20269.39%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2028%20days
 

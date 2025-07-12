@@ -12,6 +12,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-7/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-8/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-9/refs/heads/main/configs/proxy_configs.txt",
+    "https://sub.xn--2vxn29amga.com/s/026150b3ed3c89331dc35ada977cdcb0",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-10/refs/heads/main/configs/proxy_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]

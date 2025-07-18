@@ -4,6 +4,12 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiabx.688997.xyz:20857/?insecure=1&sni=nexiabx.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%B7%B4%E8%A5%BF
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiadg.688997.xyz:20557/?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%BE%B7%E5%9B%BD
@@ -20,9 +26,11 @@ hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A252.12%20GB
+hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A246.19%20GB
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-18
+
+hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A30%20%E5%A4%A9
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E9%A6%99%E6%B8%AF
 
@@ -92,13 +100,13 @@ vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=m
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
-vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.65+GB
+vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A79+GB
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-17
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8-%E9%98%BF%E4%BB%80%E6%9C%AC-CDN+%7C+1x
 
-vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A14+%E5%A4%A9
+vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A13+%E5%A4%A9
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us2.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us2.loopycloudcfjiasucdn.pp.ua#%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8-%E5%B8%83%E6%B3%95%E7%BD%97-CDN+%7C+1x
 

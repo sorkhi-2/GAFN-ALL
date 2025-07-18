@@ -20,7 +20,7 @@ hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiarb.688997.xyz:20257/?insec
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
 
-hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A256%20GB
+hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A252.12%20GB
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-18
 
@@ -40,11 +40,29 @@ hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:44594/?sni=dxobg
 
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
+hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -58,6 +76,12 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:44594/?sni=dxobg
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
+hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=1750158741.tencentapp.cn&path=%2F&host=1750158741.tencentapp.cn#%F0%9F%8F%81%E5%AE%98%E7%BD%91%EF%BC%9Aloopycloud.ggff.net
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=1750158741.tencentapp.cn&path=%2F&host=1750158741.tencentapp.cn#%F0%9F%8F%81%E9%80%9A%E7%9F%A5%EF%BC%9A%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
@@ -68,7 +92,7 @@ vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=m
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
-vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A95.12+GB
+vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.65+GB
 
 vless://4b812345-0186-4bd2-9d74-15b130fb137c@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-17
 

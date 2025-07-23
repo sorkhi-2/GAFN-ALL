@@ -13,7 +13,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-8/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-9/refs/heads/main/configs/proxy_configs.txt",
     "https://ne997.688997.xyz/api/v1/client/subscribe?token=a5e804e9420b2d82d542a03b9964b4c4",
-    "https://loopycloudcfjiasucdn.xx.kg/api/87d5f9332c960e3f45eeac8a4d790b4b",
     "https://raw.githubusercontent.com/GAFN-MMAOL/GAFN-10/refs/heads/main/configs/proxy_configs.txt",
     # Add more URLs here if you want to include additional sources.
 ]

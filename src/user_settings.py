@@ -5,7 +5,6 @@
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-1/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-2/refs/heads/main/configs/proxy_configs.txt",
-    "https://sh.dport.top/api/v1/client/subscribe?token=ad3062160378c39ac7e0d2fd5c8ec555",
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-3/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-4/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-5/refs/heads/main/configs/proxy_configs.txt",

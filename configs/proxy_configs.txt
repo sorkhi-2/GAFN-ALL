@@ -14,7 +14,5 @@ hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:50440/?sni=real.
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 

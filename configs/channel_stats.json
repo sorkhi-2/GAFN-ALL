@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T14:24:02.384197+00:00",
+  "timestamp": "2025-10-06T15:24:36.364627+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-1/refs/heads/main/configs/proxy_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 6,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.99,
-        "last_success": "2025-10-06T14:23:43.683652+00:00",
+        "overall_score": 78.89,
+        "last_success": "2025-10-06T15:24:17.287542+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -100,11 +100,11 @@
         "total_configs": 6,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.05,
-        "last_success": "2025-10-06T14:23:51.952305+00:00",
+        "overall_score": 78.98,
+        "last_success": "2025-10-06T15:24:25.763174+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -192,11 +192,11 @@
         "total_configs": 6,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.07,
-        "last_success": "2025-10-06T14:24:00.243748+00:00",
+        "overall_score": 78.97,
+        "last_success": "2025-10-06T15:24:34.243445+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,

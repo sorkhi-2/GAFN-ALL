@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-15T07:24:52.524818+00:00",
+  "timestamp": "2025-10-15T08:34:12.572549+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/GAFN-MMHOT/GAFN-1/refs/heads/main/configs/proxy_configs.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.29,
-        "last_success": "2025-10-15T07:24:33.210861+00:00",
+        "last_success": "2025-10-15T08:33:53.271048+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.36,
-        "last_success": "2025-10-15T07:24:35.354371+00:00",
+        "overall_score": 78.35,
+        "last_success": "2025-10-15T08:33:55.416130+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -54,11 +54,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.34,
-        "last_success": "2025-10-15T07:24:37.507983+00:00",
+        "overall_score": 78.37,
+        "last_success": "2025-10-15T08:33:57.550522+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -77,11 +77,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.35,
-        "last_success": "2025-10-15T07:24:39.656970+00:00",
+        "overall_score": 78.36,
+        "last_success": "2025-10-15T08:33:59.692788+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -123,11 +123,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.36,
-        "last_success": "2025-10-15T07:24:43.943294+00:00",
+        "overall_score": 78.33,
+        "last_success": "2025-10-15T08:34:04.008896+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -150,7 +150,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.36,
-        "last_success": "2025-10-15T07:24:46.086012+00:00",
+        "last_success": "2025-10-15T08:34:06.150825+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.35,
-        "last_success": "2025-10-15T07:24:48.232572+00:00",
+        "last_success": "2025-10-15T08:34:08.299116+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -196,7 +196,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.36,
-        "last_success": "2025-10-15T07:24:50.376734+00:00",
+        "last_success": "2025-10-15T08:34:10.440595+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -215,11 +215,11 @@
         "total_configs": 14,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.35,
-        "last_success": "2025-10-15T07:24:52.524207+00:00",
+        "overall_score": 78.38,
+        "last_success": "2025-10-15T08:34:12.571912+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
